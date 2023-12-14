@@ -27,8 +27,8 @@ jobs:
           python autoUrl.py
       - name: 暂存提交
         run: |
-          git config --global user.name 'hl128k'
-          git config --global user.email 'hl128k@qq.com'
+          git config --global user.name 'huxuanming'
+          git config --global user.email '1045380401@qq.com'
           export TZ='Asia/Shanghai'
           git add .
           git commit -m "update" -a
