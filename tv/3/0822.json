@@ -29,15 +29,15 @@
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-0eace2597ca3.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-a167e256da9c.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-d11f2cf8009b.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-ea7373db06c8.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-afa99dcf40f7.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-af6c685139ba.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-578cdbc8a5a9.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-5cb699a7e247.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-9b32204967c6.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-366b5c973fad.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-44fa1513ddd0.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-37c20f81448a.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-df21b6fbffc1.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-07f750db5d7c.css" />
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-c7fc2cc90211.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-fa69f138fe8d.css" />
 
   
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_conversational_ux_history_refs","copilot_smell_icebreaker_ux","copilot_implicit_context","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-d62b5da6bc53.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-4f923998eff0.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-6890e890956f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-7bd350d761f4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-a448e4-bb5415637fe0.js"></script>
@@ -52,7 +52,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b7d8f4-654130b7cde5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-3959a9-134c7fee9431.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-b4a56d108039.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-32f31e27d3d7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-38798b21e7eb.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1acb1c-a745699a1cfa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-5b376145beff.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_morphdom_dist_morphdom-esm_js-node_modules_github_memoize_dist_esm_index_js-05801f7ca718.js"></script>
@@ -85,7 +85,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="2240:7D04:4BCFD98:6693D6B:66130A5E" data-turbo-transient="true" /><meta name="html-safe-nonce" content="c840d43d1189cfaf3641113ba8cc31b48ff2eaedab6295382d08f8682df09d16" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IjIyNDA6N0QwNDo0QkNGRDk4OjY2OTNENkI6NjYxMzBBNUUiLCJ2aXNpdG9yX2lkIjoiODE3ODQ0Mjk4MTE5NzY3OTE5OCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="062aa80db7f8822f0b09760c1993080068e981e400303a82bbb4c312481dc665" data-turbo-transient="true" />
+  <meta name="request-id" content="F4CA:1D938B:1EDD8D1:2C54394:66145BDC" data-turbo-transient="true" /><meta name="html-safe-nonce" content="eec734e7fb6ee427e828033d7998e496292459bd421b5fb1bf4f006c4d8fb0d3" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkY0Q0E6MUQ5MzhCOjFFREQ4RDE6MkM1NDM5NDo2NjE0NUJEQyIsInZpc2l0b3JfaWQiOiI4NjM3ODYzMjcxOTM1MDA3NzA5IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="e1153ec616f8b9e6205c8b9bdac79c2a1d9b385d5b8f786f87c30f1ceaaa62e7" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:543049787" data-turbo-transient>
@@ -161,14 +161,14 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="cded0ed8f54b924ae20cb37e405ea97a9b7040c3074a5fdf38cedd277c2cbb5f" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="60c816807754e42dff9e1c3969eccc9cba5e28a90325b4f942cc7fe8cc25193e" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="f226bf37af9c33162063db3eb018fed7f088f86d0a20ca54c013fda96c7f2e05" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="3b4c07eab00b52bbb8e0bdd6afe5b4da5ca6ce631e7ad9d74f0fc57b4531213b" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="56175b7e279440d60a576d42dcc7cb0c660cc34a4336fb1a631ae82c0783d864" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="7581661c4779e1ed9e03575ce901b005c2e94b4af5c248a35dcabb74de88a220" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="4566b5424e2d3847ee01541cc886f8ed0bd5619ef8e777446de1bb1975894cb2" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
-      <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/site-fe2057b57083.css" />
+      <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/site-ce808367f662.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/error-3138b3a0095a.css" />
   <link rel="preload" href="https://github.githubassets.com/assets/mona-sans-d1bf285e9b9b.woff2" as="font" type="font/woff2" crossorigin>
   <meta name="is_logged_out_page" content="true">
@@ -208,7 +208,7 @@
   
 
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-1fbfc5be2c18.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-541a38-c07b07af7c0d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-541a38-6ce7d7c3f9ee.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-8f8c5e2a2cbf.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-95a7748e3c39.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-70d5275ffcb7.js"></script>
@@ -624,7 +624,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="owner:gaotianliuyun" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="urDJn1Xl4mluhy-bkKm4QQvFfT74dOEpvUc9zQ324hdx1FYt1W5BxOXdZUFwdelfK7N7AtgL5gtY49mkbPc1ww" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<input type=&quot;hidden&quot; value=&quot;dlFUGH4c4f9jMydZLumQMvtDYoa5oOQCFpy5JASa1w8YQC-ocModFqVSuKLhULlZmB78VTj51G6epDh__nE80w&quot; data-csrf=&quot;true&quot; />">
+<qbsearch-input class="search-input" data-scope="owner:gaotianliuyun" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Poumf0Iu1d8X0jNQ2bMK1zM6830-lKKqGT8Ekm64ZSiX8966u7QzfAR_Rhvu4-K6W-YSgcIO_TnyRlALKbnNvA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<input type=&quot;hidden&quot; value=&quot;OdqRnMyQPKI7WaiK7yogb72C4xKfoFWLZfs6kLLPDe0Rnu4p4JBoEEdeflG-ag9TQrmO7_Pz_p9DJX9_4kr8Sg&quot; data-csrf=&quot;true&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -686,7 +686,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-7244e751-b872-45bb-8e77-db74c5900b98" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-06217807-b7b5-410f-90d5-464d7c82fa80" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -917,7 +917,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-7244e751-b872-45bb-8e77-db74c5900b98" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-06217807-b7b5-410f-90d5-464d7c82fa80" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -958,7 +958,7 @@
   </div>
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TELAwRc-HddFLMdlmR3iPFoSJhhUK2Q6TDVsCuDs-9Br1JQ49IQOC7W9Fo5jARPehU0MMBZMI3sZmkouHAsY6Q" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dTo6oFKk4En8A4pL7dOg9Rr48dAkDK7OZD4T_59S3qLxuWwHks0Bz5Wm5g6sbhPDS-2OpWPYvO5NBxHWkoKL0Q" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -995,7 +995,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pteAOZBuFeVc8d72dPpNKKFOt0ysZiK7A4p2Sfo21lG7sm0ZV3mYsSws4Pl_f0jd6xw1fxvxO1VHeDW5xUanuw" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="D5YUSXDihxBr-wWZyBsOC-z_jT5Ua3eqPJjXucwtxPXYJaqv0GnIj75u72f5ax9SW_xui615FSRuQWjpbeppPA" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1013,7 +1013,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="gU6-2Tu41S3Jn7bmAwPFZr2wVjI1N-BGBwY2tAj6PNAXyQ0wjNQpVOfTsIZ5HlpgRl3emrd-SOprB9n8gFog-w" data-csrf="true" />
+              <input type="hidden" value="gEPqhV1TW3rOy-BO_0htShr0zsqHYQqyAbuLtGPpEnHZF8Zy9MrkzCByxmz1UcoBVIaDgPwgJIhtdM5C3UE48Q" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -1050,7 +1050,7 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" value="bwaQ6lI4fNY5U6NbWn6IQ9jUbdwn1I54KhWrwQC7ZBx5TJjBUM5JTqaFpt70EcJbd6a1cWdkinX2D0Q7qfa7zg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="kBV-x2Ad1_FqPUT4Q2HevGwryl6IvZLZR3pg5fEPhVrPg1UFS_-Ezr7Wt0uaJsV_HCRbv5ArIuV2zGI6TZTWqA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
@@ -1064,7 +1064,7 @@
   <div style="width: 300px" data-view-component="true" class="Popover-message Box Popover-message--top-right color-fg-default p-4 mt-2 mx-auto text-left">
     <h4 data-view-component="true" class="color-fg-default mb-2">                  Sign in to GitHub
 </h4>
-                      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_iAOa4p7itzWkK-dj3yzIdkBOOe4AvkLFplnnHmnII5vr8vnJ1lVuuB2F0djyYFx7g7Vm7hYWt-PlKmXVJ4B3A" />    <label for="login_field">
+                      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VHdkZOMfddvd9WOHwwr8F6Nvd1tVcp88lhzi0B7g9OBXOnBQq6r6PijO3U9Wz6Dy1qpvXzCwiOyRZcCXuqn-bQ" />    <label for="login_field">
       Username or email address
     </label>
     <input type="text" name="login" id="login_field" class="form-control input-block js-login-field" autocapitalize="off" autocorrect="off" autocomplete="username" autofocus="autofocus" required="required" />
@@ -1084,7 +1084,7 @@
 <input type="hidden" name="allow_signup" id="allow_signup" autocomplete="off" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
 <input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
-<input type="text" name="required_field_d181" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1712523870895" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="5b3d8cf0762532f5efca5a5d0f7b94eaa5b8ac3f7a20fcf66a10ae774db82747" autocomplete="off" class="form-control" />
+<input type="text" name="required_field_5243" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1712610269058" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="1866cd7b7ca75aa3555d7914ef621719b8525bae6f299e4714318f734681934f" autocomplete="off" class="form-control" />
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" development="false" disable-emu-sso="false" />
   </div>
@@ -1122,10 +1122,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-887d014e-0f9c-421b-a1d0-c9387d39aebe" aria-labelledby="tooltip-26e31fad-c72b-4fc1-b25d-6516f319de3f" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-2243ac8c-4254-4fa9-88aa-968b6d14e99d" aria-labelledby="tooltip-a60817c9-c0de-419b-a4bf-b6e88e86b441" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-26e31fad-c72b-4fc1-b25d-6516f319de3f" for="icon-button-887d014e-0f9c-421b-a1d0-c9387d39aebe" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-a60817c9-c0de-419b-a4bf-b6e88e86b441" for="icon-button-2243ac8c-4254-4fa9-88aa-968b6d14e99d" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1235,31 +1235,30 @@
   </div>
 
             <footer role="contentinfo" class="footer pt-6 position-relative" data-analytics-visible="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;visible&quot;,&quot;label&quot;:&quot;text: Marketing footer&quot;}" >
+  <h2 class="sr-only">Site-wide Links</h2>
   <div class="container-xl p-responsive">
     <div class="d-flex flex-wrap py-5 mb-5">
-      <div class="col-12 col-lg-4 mb-5">
+      <section class="col-12 col-lg-4 mb-5">
         <a href="/" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to home&quot;,&quot;label&quot;:&quot;text:home&quot;}" class="color-fg-default d-inline-block" aria-label="Go to GitHub homepage">
           <svg height="30" aria-hidden="true" viewBox="0 0 45 16" version="1.1" width="84" data-view-component="true" class="octicon octicon-logo-github footer-logo-mktg width-auto d-block">
     <path d="M8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17Zm35.85 2.33c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88ZM27.68 2.43c.09 0 .17.08.17.17v11.11c0 .09-.08.17-.17.17h-2.13c-.09 0-.17-.08-.17-.17l.02-4.75h-3.31v4.75c0 .09-.08.17-.17.17h-2.13c-.08 0-.17-.08-.17-.17V2.6c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v4.09h3.31V2.6c0-.09.08-.17.17-.17Zm8.26 3.64c.11 0 .19.08.19.17l-.02 7.47c0 .09-.06.17-.17.17H34.6c-.07 0-.14-.04-.16-.09-.03-.06-.08-.45-.08-.45s-1.13.77-2.52.77c-1.69 0-2.92-.55-2.92-2.75V6.25c0-.09.08-.17.17-.17h2.14c.09 0 .17.08.17.17V11c0 .75.22 1.09.97 1.09s1.3-.39 1.3-.39V6.26c0-.11.06-.19.17-.19Zm-17.406 5.971h.005a.177.177 0 0 1 .141.179v1.5c0 .07-.03.14-.09.16-.1.05-.74.22-1.27.22-1.16 0-2.86-.25-2.86-2.69V8.13h-1.11c-.09 0-.17-.08-.17-.19V6.58c0-.08.05-.15.13-.17.07-.01 1.16-.28 1.16-.28V3.96c0-.08.05-.13.14-.13h2.16c.09 0 .14.05.14.13v2.11h1.59c.08 0 .16.08.16.17v1.7c0 .11-.07.19-.16.19h-1.59v3.131c0 .47.27.83 1.05.83.247 0 .481-.049.574-.05ZM12.24 6.06c.09 0 .17.08.17.17v7.37c0 .18-.05.27-.25.27h-1.92c-.17 0-.3-.07-.3-.27V6.26c0-.11.08-.2.17-.2Zm29.99 3.78c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25ZM11.19 2.68c.75 0 1.36.61 1.36 1.38 0 .77-.61 1.38-1.36 1.38-.77 0-1.38-.61-1.38-1.38 0-.77.61-1.38 1.38-1.38Zm7.34 9.35v.001l.01.01h-.001l-.005-.001v.001c-.009-.001-.015-.011-.024-.011Z"></path>
 </svg>
         </a>
 
-        <div>
-          <h2 class="h5 mt-4" id="subscribe-to-newsletter">Subscribe to our developer newsletter</h2>
-          <p class="f5 color-fg-muted mb-3">Get tips, technical guides, and best practices. Twice a month. Right in your inbox.</p>
-          <a class="btn-mktg mb-4 btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Subscribe&quot;,&quot;action&quot;:&quot;click to Subscribe&quot;,&quot;label&quot;:&quot;ref_cta:Subscribe;&quot;}" href="https://resources.github.com/newsletter/">
+        <p class="h5 mt-4 mb-0" id="subscribe-to-newsletter">Subscribe to our developer newsletter</p>
+        <p class="f5 color-fg-muted mb-3">Get tips, technical guides, and best practices. Twice a month. Right in your inbox.</p>
+        <a class="btn-mktg mb-4 btn-muted-mktg" data-analytics-event="{&quot;category&quot;:&quot;Subscribe&quot;,&quot;action&quot;:&quot;click to Subscribe&quot;,&quot;label&quot;:&quot;ref_cta:Subscribe;&quot;}" href="https://resources.github.com/newsletter/">
   Subscribe
   
   
 </a>
-        </div>
 
-      </div>
+      </section>
 
-      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-lg-0 pl-lg-4">
-        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+      <nav class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-lg-0 pl-lg-4" aria-label="Links related to product features">
+        <h3 class="h5 mb-3 text-mono color-fg-muted text-normal">
           Product
-        </h2>
+        </h3>
 
         <ul class="list-style-none color-fg-muted f5">
           <li class="lh-condensed mb-3">
@@ -1290,12 +1289,12 @@
             <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to compare github&quot;,&quot;label&quot;:&quot;text:compare github&quot;}" href="https://resources.github.com/devops/tools/compare/">Compare GitHub</a>
           </li>
         </ul>
-      </div>
+      </nav>
 
-      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
-        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+      <nav class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4" aria-label="Links related to platform services and features">
+        <h3 class="h5 mb-3 text-mono color-fg-muted text-normal">
           Platform
-        </h2>
+        </h3>
 
         <ul class="list-style-none f5">
           <li class="lh-condensed mb-3">
@@ -1311,12 +1310,12 @@
             <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to desktop&quot;,&quot;label&quot;:&quot;text:desktop&quot;}" href="https://desktop.github.com/">GitHub Desktop</a>
           </li>
         </ul>
-      </div>
+      </nav>
 
-      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
-        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+      <nav class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4" aria-label="Links related to customer support and help resources">
+        <h3 class="h5 mb-3 text-mono color-fg-muted text-normal">
           Support
-        </h2>
+        </h3>
 
         <ul class="list-style-none f5">
           <li class="lh-condensed mb-3">
@@ -1341,12 +1340,12 @@
             <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}" href="https://support.github.com?tags=dotcom-footer">Contact GitHub</a>
           </li>
         </ul>
-      </div>
+      </nav>
 
-      <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
-        <h2 class="h5 mb-3 text-mono color-fg-muted text-normal">
+      <nav class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4" aria-label="Links related to company information">
+        <h3 class="h5 mb-3 text-mono color-fg-muted text-normal">
           Company
-        </h2>
+        </h3>
 
         <ul class="list-style-none f5">
           <li class="lh-condensed mb-3">
@@ -1377,80 +1376,92 @@
             <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to shop&quot;,&quot;label&quot;:&quot;text:shop&quot;}" href="https://shop.github.com">Shop</a>
           </li>
         </ul>
-      </div>
+      </nav>
     </div>
   </div>
 
   <div class="color-bg-subtle">
-    <div class="container-xl p-responsive f6 py-4 d-sm-flex flex-justify-between flex-row-reverse flex-items-center">
-      <ul class="list-style-none d-flex flex-items-center mb-3 mb-sm-0 lh-condensed-ultra">
-        <li class="mr-3">
-          <a href="https://x.com/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to X&quot;,&quot;label&quot;:&quot;text:x&quot;}" class="color-fg-subtle">
-            <img src="https://github.githubassets.com/assets/x-023c3ca5e173.svg" height="16" width="16"  class="d-block" loading="lazy" decoding="async" alt="X icon">
-            <span class="sr-only">GitHub on X</span>
-          </a>
-        </li>
-        <li class="mr-3">
-          <a href="https://www.facebook.com/GitHub" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Facebook&quot;,&quot;label&quot;:&quot;text:facebook&quot;}" class="color-fg-subtle">
-            <img src="https://github.githubassets.com/assets/facebook-de85282d23e6.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="Facebook icon">
-            <span class="sr-only">GitHub on Facebook</span>
-          </a>
-        </li>
-        <li class="mr-3 flex-self-start">
-          <a href="https://www.linkedin.com/company/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Linkedin&quot;,&quot;label&quot;:&quot;text:linkedin&quot;}" class="color-fg-subtle">
-            <img src="https://github.githubassets.com/assets/linkedin-3c0ace8edb5f.svg" width="19" height="18" class="d-block" loading="lazy" decoding="async" alt="Linkedin icon">
-            <span class="sr-only">GitHub on LinkedIn</span>
-          </a>
-        </li>
-        <li class="mr-3">
-          <a href="https://www.youtube.com/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to YouTube&quot;,&quot;label&quot;:&quot;text:youtube&quot;}" class="color-fg-subtle">
-            <img src="https://github.githubassets.com/assets/youtube-25bc21e924c8.svg" width="23" height="16"  class="d-block" loading="lazy" decoding="async" alt="YouTube icon">
-            <span class="sr-only">GitHub on YouTube</span>
-          </a>
-        </li>
-        <li class="mr-3">
-          <a href="https://www.twitch.tv/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Twitch&quot;,&quot;label&quot;:&quot;text:twitch&quot;}" class="color-fg-subtle">
-            <img src="https://github.githubassets.com/assets/twitch-e576606a89a7.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="Twitch icon">
-            <span class="sr-only">GitHub on Twitch</span>
-          </a>
-        </li>
-        <li class="mr-3">
-          <a href="https://www.tiktok.com/@github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to tiktok&quot;,&quot;label&quot;:&quot;text:tiktok&quot;}" class="color-fg-subtle">
-            <img src="https://github.githubassets.com/assets/tiktok-5d12d948d920.svg" width="18" height="18"  class="d-block" loading="lazy" decoding="async" alt="TikTok icon">
-            <span class="sr-only">GitHub on TikTok</span>
-          </a>
-        </li>
-        <li>
-          <a href="https://raw.iqiq.io/github" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to github&#39;s org&quot;,&quot;label&quot;:&quot;text:github&quot;}" class="color-fg-subtle">
-            <img src="https://github.githubassets.com/assets/github-mark-9be88460eaa6.svg" width="20" height="20" class="d-block" loading="lazy" decoding="async" alt="GitHub mark">
-            <span class="sr-only">GitHub’s organization on GitHub</span>
-          </a>
-        </li>
-      </ul>
+    <div class="container-xl p-responsive f6 py-4 d-md-flex flex-justify-between flex-row-reverse flex-items-center">
+      <nav aria-label="GitHub&#39;s Social Media Links" class="mb-3 mb-md-0">
+        
+<ul class="list-style-none d-flex flex-items-center lh-condensed-ultra">
+    <li class="ml-md-3">
+      <a href="https://x.com/github" class="footer-social-icon" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to X&quot;,&quot;label&quot;:&quot;text:text:x&quot;}" class="color-fg-subtle d-block">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1227" fill="currentColor" aria-hidden="true" class="d-block" width="16" height="16"><path d="M714.163 519.284 1160.89 0h-105.86L667.137 450.887 357.328 0H0l468.492 681.821L0 1226.37h105.866l409.625-476.152 327.181 476.152H1200L714.137 519.284h.026ZM569.165 687.828l-47.468-67.894-377.686-540.24h162.604l304.797 435.991 47.468 67.894 396.2 566.721H892.476L569.165 687.854v-.026Z"></path></svg>
 
-      <ul class="list-style-none d-flex flex-wrap color-fg-muted">
-        <li class="mx-2">
-          &copy; 2024 GitHub, Inc.
-        </li>
+        <span class="sr-only">GitHub on X</span>
+      </a>
+    </li>
+    <li class="ml-3">
+      <a href="https://www.facebook.com/GitHub" class="footer-social-icon" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Facebook&quot;,&quot;label&quot;:&quot;text:text:facebook&quot;}" class="color-fg-subtle d-block">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.3 15.4" aria-hidden="true" class="d-block" width="18" height="18"><path d="M14.5 0H.8a.88.88 0 0 0-.8.9v13.6a.88.88 0 0 0 .8.9h7.3v-6h-2V7.1h2V5.4a2.87 2.87 0 0 1 2.5-3.1h.5a10.87 10.87 0 0 1 1.8.1v2.1h-1.3c-1 0-1.1.5-1.1 1.1v1.5h2.3l-.3 2.3h-2v5.9h3.9a.88.88 0 0 0 .9-.8V.8a.86.86 0 0 0-.8-.8z" fill="currentColor"></path></svg>
 
-        <li class="mx-2">
-          <a href="https://docs.github.com/site-policy/github-terms/github-terms-of-service" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}" class="Link--secondary">Terms</a>
-        </li>
+        <span class="sr-only">GitHub on Facebook</span>
+      </a>
+    </li>
+    <li class="ml-3">
+      <a href="https://www.linkedin.com/company/github" class="footer-social-icon" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Linkedin&quot;,&quot;label&quot;:&quot;text:text:linkedin&quot;}" class="color-fg-subtle d-block">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 18" aria-hidden="true" class="d-block" width="19" height="18"><path d="M3.94 2A2 2 0 1 1 2 0a2 2 0 0 1 1.94 2zM4 5.48H0V18h4zm6.32 0H6.34V18h3.94v-6.57c0-3.66 4.77-4 4.77 0V18H19v-7.93c0-6.17-7.06-5.94-8.72-2.91z" fill="currentColor"></path></svg>
 
-        <li class="mx-2">
-          <a href="https://docs.github.com/site-policy/privacy-policies/github-privacy-statement" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}" class="Link--secondary">Privacy</a>
-          (<a href="https://raw.iqiq.io/github/site-policy/pull/582" class="Link--secondary">Updated 08/2022</a>)
-        </li>
+        <span class="sr-only">GitHub on LinkedIn</span>
+      </a>
+    </li>
+    <li class="ml-3">
+      <a href="https://www.youtube.com/github" class="footer-social-icon" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to YouTube&quot;,&quot;label&quot;:&quot;text:text:youtube&quot;}" class="color-fg-subtle d-block">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.17 13.6" aria-hidden="true" class="d-block" width="23" height="16"><path d="M18.77 2.13A2.4 2.4 0 0 0 17.09.42C15.59 0 9.58 0 9.58 0a57.55 57.55 0 0 0-7.5.4A2.49 2.49 0 0 0 .39 2.13 26.27 26.27 0 0 0 0 6.8a26.15 26.15 0 0 0 .39 4.67 2.43 2.43 0 0 0 1.69 1.71c1.52.42 7.5.42 7.5.42a57.69 57.69 0 0 0 7.51-.4 2.4 2.4 0 0 0 1.68-1.71 25.63 25.63 0 0 0 .4-4.67 24 24 0 0 0-.4-4.69zM7.67 9.71V3.89l5 2.91z" fill="currentColor"></path></svg>
 
-        <li class="mx-2">
-          <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to sitemap&quot;,&quot;label&quot;:&quot;text:sitemap&quot;}" href="/sitemap">Sitemap</a>
-        </li>
+        <span class="sr-only">GitHub on YouTube</span>
+      </a>
+    </li>
+    <li class="ml-3">
+      <a href="https://www.twitch.tv/github" class="footer-social-icon" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Twitch&quot;,&quot;label&quot;:&quot;text:text:twitch&quot;}" class="color-fg-subtle d-block">
+        <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" aria-hidden="true" class="d-block" width="18" height="18"><title>Twitch</title><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z" fill="currentColor"></path></svg>
 
-        <li class="mx-2">
-          <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Git Guides&quot;,&quot;label&quot;:&quot;text:What is Git?&quot;}" href="/git-guides">What is Git?</a>
-        </li>
+        <span class="sr-only">GitHub on Twitch</span>
+      </a>
+    </li>
+    <li class="ml-3">
+      <a href="https://www.tiktok.com/@github" class="footer-social-icon" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to tiktok&quot;,&quot;label&quot;:&quot;text:text:tiktok&quot;}" class="color-fg-subtle d-block">
+        <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" aria-hidden="true" class="d-block" width="18" height="18"><title>TikTok</title><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z" fill="currentColor"></path></svg>
 
-          <li class="mx-2" >
+        <span class="sr-only">GitHub on TikTok</span>
+      </a>
+    </li>
+    <li class="ml-3">
+      <a href="https://raw.iqiq.io/github" class="footer-social-icon" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to github&#39;s org&quot;,&quot;label&quot;:&quot;text:text:github&quot;}" class="color-fg-subtle d-block">
+        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 0 16 16" width="20" aria-hidden="true" class="d-block"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+
+        <span class="sr-only">GitHub’s organization on GitHub</span>
+      </a>
+    </li>
+</ul>
+
+      </nav>
+
+      <nav aria-label="Legal and Resource Links">
+        <ul class="list-style-none d-flex flex-wrap color-fg-muted">
+          <li class="mr-3">
+            &copy; <time datetime="2024">2024</time> GitHub, Inc.
+          </li>
+
+          <li class="mr-3">
+            <a href="https://docs.github.com/site-policy/github-terms/github-terms-of-service" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}" class="Link--secondary">Terms</a>
+          </li>
+
+          <li class="mr-3">
+            <a href="https://docs.github.com/site-policy/privacy-policies/github-privacy-statement" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}" class="Link--secondary">Privacy</a>
+            (<a href="https://raw.iqiq.io/github/site-policy/pull/582" class="Link--secondary">Updated <time datetime="2022-08">08/2022</time></a>)
+          </li>
+
+          <li class="mr-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to sitemap&quot;,&quot;label&quot;:&quot;text:sitemap&quot;}" href="/sitemap">Sitemap</a>
+          </li>
+
+          <li class="mr-3">
+            <a class="Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Git Guides&quot;,&quot;label&quot;:&quot;text:What is Git?&quot;}" href="/git-guides">What is Git?</a>
+          </li>
+
+            <li class="mr-3" >
   <cookie-consent-link>
     <button type="button" class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent" data-action="click:cookie-consent-link#showConsentManagement">
       Manage cookies
@@ -1458,7 +1469,7 @@
   </cookie-consent-link>
 </li>
 
-<li class="mx-2">
+<li class="mr-3">
   <cookie-consent-link>
     <button type="button" class="Link--secondary underline-on-hover border-0 p-0 color-bg-transparent" data-action="click:cookie-consent-link#showConsentManagement">
       Do not share my personal information
@@ -1466,7 +1477,8 @@
   </cookie-consent-link>
 </li>
 
-      </ul>
+        </ul>
+      </nav>
     </div>
   </div>
 </footer>
